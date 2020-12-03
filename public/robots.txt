@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /test1
+Allow: /test2
